@@ -8,7 +8,8 @@ Usage>
     python drupal8-REST-RCE.py <dst_ip> <dst_port> (user defined port)
     
     python drupal8-REST-RCE.py <dst_ip> (default : 80/tcp)
-    
-Script based on Python2
+  
+[updated!]  
+Script editted for supporting python3 (2020.11.07)
 
 Just using Vuln Test for your System
